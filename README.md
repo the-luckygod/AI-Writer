@@ -4,7 +4,7 @@
 
 This project is an AI writing assitant powered by the [GPT-3.5 Turbo](https://platform.openai.com/docs/models/gpt-3-5-turbo) model from [openAI](https://openai.com).
 
-You can access the AI Writer [here](https://cvt4cm-3000.csb.app/).
+You can access the AI Writer [here](https://8h9g4f-3000.csb.app/).
 
 The AI writer offers three base services:
 - Article Essay Writer
