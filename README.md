@@ -1,6 +1,6 @@
 # AI Writer 
 
-![Screenshot of the AI Writer](assets/ai-writer.png)
+![Screenshot of the AI Writer](assets/aiwriter.png)
 
 This project is an AI writing assitant powered by the [GPT-3.5 Turbo](https://platform.openai.com/docs/models/gpt-3-5-turbo) model from [openAI](https://openai.com).
 
